@@ -1,5 +1,5 @@
 :HL["/borners-platform/_next/static/chunks/3v7wj5x_t60yz.css","style"]
-:HL["/borners-platform/_next/static/chunks/1fy6x52jlwz7y.css","style"]
+:HL["/borners-platform/_next/static/chunks/07uht7zgb69e9.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"hG5atPnBJKhf7f3GILmDb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"3zqsp-yF2k3Lq1HqNIukp","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
