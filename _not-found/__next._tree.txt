@@ -2,4 +2,4 @@
 :HL["/borners-platform/_next/static/chunks/07uht7zgb69e9.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"aN-rLC90yVnJQy0lK1-ij","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"FpAGGj1S66Cz36Ki7s7Cz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
